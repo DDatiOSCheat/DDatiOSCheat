@@ -30,13 +30,13 @@
 
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+       src="![DDatiOSCheat's Stats](https://github-readme-stats.vercel.app/api?username=DDatiOSCheat&theme=dark&show_icons=true&hide_border=true&count_private=true)"/>
 
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDatiOSCheat&layout=compact&theme=github_dark&hide_border=true"/>
+       src="![DDatiOSCheat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DDatiOSCheat&theme=dark&show_icons=true&hide_border=true&layout=compact)"/>
 
   <img height="165"
-       src="https://streak-stats.demolab.com?user=DDatiOSCheat&theme=dark&hide_border=true"/>
+       src="![DDatiOSCheat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DDatiOSCheat&theme=dark&hide_border=true)"/>
 </p>
 
 ---
