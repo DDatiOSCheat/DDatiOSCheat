@@ -28,12 +28,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DDatiOSCheat&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDatiOSCheat&theme=dark&show_icons=true&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DDatiOSCheat&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDatiOSCheat&theme=dark&show_icons=true&hide_border=true&layout=donut-vertical"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DDatiOSCheat&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDatiOSCheat&theme=dark&hide_border=true"/>
 </p>
 
 ---
