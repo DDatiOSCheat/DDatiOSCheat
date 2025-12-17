@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=DDatiOSCheat&theme=dark&hide_border=true"/>
+  <img height="195" src="https://ddatios-streak-stats.vercel.app?user=DDatiOSCheat&theme=dark&hide_border=true"/>
 </p>
 
 ---
