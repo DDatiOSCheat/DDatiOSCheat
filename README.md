@@ -1,5 +1,5 @@
 <h1 align="center">DDatiOSCheat</h1>
-<h3 align="center">iOS Modder • Script Developer • Reverse Engineer</h3>
+<h3 align="center">Script Developer • Reverse Engineer</h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/4P9IvZesG5AAAAAd/catgirl-maid.gif" width="220" />
