@@ -40,26 +40,6 @@
 
 ---
 
-<h2 align="center">🧠 What I Do</h2>
-
-<ul>
-  <li>🍎 iOS tweak development (Theos)</li>
-  <li>🎮 Game modding & reverse engineering</li>
-  <li>🧪 Script automation & exploits</li>
-  <li>⚙️ Low-level C / C++ logic</li>
-</ul>
-
----
-
-<h2 align="center">⚠️ Disclaimer</h2>
-
-<p align="center">
-  <i>For educational & research purposes only.<br/>
-  I am not responsible for any misuse.</i>
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-1e1e2e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/iOS-17.6.1%20No Jailbreak-f38ba8?style=for-the-badge&logo=apple&logoColor=1e1e2e"/>
