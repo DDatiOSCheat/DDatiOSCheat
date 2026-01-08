@@ -26,12 +26,12 @@
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark"/>
-</p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DDatiOSCheat&theme=dark"/>
+  <img height="195"
+       src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark"/>
+  <img height="195"
+       src="https://github-readme-stats-fast.vercel.app/api/streak?username=DDatiOSCheat&theme=dark"/>
 </p>
 
 ---
