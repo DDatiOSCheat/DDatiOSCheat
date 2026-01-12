@@ -41,6 +41,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-1e1e2e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-%20Learning :)-1e1e2e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/iOS-17.6.1%20No Jailbreak-f38ba8?style=for-the-badge&logo=apple&logoColor=1e1e2e"/>
 </p>
