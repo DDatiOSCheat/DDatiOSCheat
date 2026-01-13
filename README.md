@@ -1,16 +1,8 @@
-# <span style="color:#89b4fa">Hi there I'm DDatiOS</span>
+# <span style="color:#89b4fa">Hi there, I'm DDatiOS</span>
 
-<span style="color:#cdd6f4">
-iOS tweaks • game mods • reverse engineering
-</span>
-
-<span style="color:#a6e3a1">
-Python • JavaScript • Node.js • C / C++ • Theos
-</span>
-
-<span style="color:#f38ba8">
-i love you :3
-</span>
+<span style="color:#cdd6f4">iOS tweaks • game mods • reverse engineering</span><br>
+<span style="color:#a6e3a1">Python • JavaScript • Node.js • C / C++ • Theos</span><br>
+<span style="color:#f38ba8">i love you :3</span>
 
 ---
 
