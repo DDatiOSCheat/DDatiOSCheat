@@ -1,8 +1,8 @@
-<h1 align="center">👉👈</h1>
-<h3 align="center">Hey • I'm DDatiOS~</h3>
+<h1 align="center">👋 Hi, I'm DDatiOS</h1>
+<h3 align="center">iOS Tweaks • Game Mods • Reverse Engineering</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/4P9IvZesG5AAAAAd/catgirl-maid.gif" width="220" />
+  <img src="https://media1.tenor.com/m/4P9IvZesG5AAAAAd/catgirl-maid.gif" width="200"/>
 </p>
 
 <p align="center">
@@ -12,35 +12,23 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-89b4fa?style=for-the-badge&logo=python&logoColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=node.js&logoColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/Git-f38ba8?style=for-the-badge&logo=git&logoColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/Theos-iOS%20Tweak-cba6f7?style=for-the-badge&logo=apple&logoColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/C-89b4fa?style=for-the-badge&logo=c&logoColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/C++-74c7ec?style=for-the-badge&logo=cplusplus&logoColor=1e1e2e"/>
+### ⚡ Tech Stack
+<p>
+  Python • JavaScript • Node.js • C / C++  
+  Theos • iOS Reverse Engineering • Git
 </p>
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark"/>
-    </td>
-    <td>
-      <img height="195" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DDatiOSCheat&theme=dark"/>
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark"/>
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DDatiOSCheat&theme=dark"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-%20Learning :)-1e1e2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/iOS-17.6.1%20No Jailbreak-f38ba8?style=for-the-badge&logo=apple&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-1e1e2e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/iOS-17.6.1%20%7C%20No%20Jailbreak-f38ba8?style=for-the-badge&logo=apple"/>
 </p>
