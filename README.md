@@ -7,4 +7,3 @@
 ---
 
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=DDatiOSCheat&theme=dark&hide_border=true)
