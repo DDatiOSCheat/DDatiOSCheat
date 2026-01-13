@@ -1,34 +1,18 @@
-<h1 align="center">👋 Hi, I'm DDatiOS</h1>
-<h3 align="center">iOS Tweaks • Game Mods • Reverse Engineering</h3>
+# <span style="color:#89b4fa">Hi there I'm DDatiOS</span>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/4P9IvZesG5AAAAAd/catgirl-maid.gif" width="200"/>
-</p>
+<span style="color:#cdd6f4">
+iOS tweaks • game mods • reverse engineering
+</span>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-he/him-1e1e2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-iOS%20Tweaks%20%26%20Game%20Mods-f38ba8?style=for-the-badge"/>
-</p>
+<span style="color:#a6e3a1">
+Python • JavaScript • Node.js • C / C++ • Theos
+</span>
 
----
-
-### ⚡ Tech Stack
-<p>
-  Python • JavaScript • Node.js • C / C++  
-  Theos • iOS Reverse Engineering • Git
-</p>
+<span style="color:#f38ba8">
+i love you :3
+</span>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark"/>
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DDatiOSCheat&theme=dark"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-1e1e2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/iOS-17.6.1%20%7C%20No%20Jailbreak-f38ba8?style=for-the-badge&logo=apple"/>
-</p>
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark&hide_border=true)
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=DDatiOSCheat&theme=dark&hide_border=true)
