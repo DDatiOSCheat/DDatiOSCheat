@@ -15,7 +15,7 @@
   />
 </p>
 
-[![WakaTime](https://wakatime.com/badge/user/eafb7833-a6a9-4abc-a04a-ebe6c03e571e.svg)](https://wakatime.com/@DDatiOSCheat)
+[![WakaTime](https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/eafb7833-a6a9-4abc-a04a-ebe6c03e571e.json)](https://wakatime.com/@DDatiOSCheat)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
