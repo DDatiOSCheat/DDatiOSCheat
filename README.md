@@ -13,14 +13,9 @@
     src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark&hide_border=true"
     alt="GitHub Stats"
   />
-  <br><br>
-  <a href="https://wakatime.com/@DDatiOSCheat">
-    <img
-      src="https://wakatime.com/badge/user/eafb7833-a6a9-4abc-a04a-ebe6c03e571e.svg"
-      alt="WakaTime Badge"
-    />
-  </a>
 </p>
+
+[![WakaTime](https://wakatime.com/badge/user/eafb7833-a6a9-4abc-a04a-ebe6c03e571e.svg)](https://wakatime.com/@DDatiOSCheat)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
