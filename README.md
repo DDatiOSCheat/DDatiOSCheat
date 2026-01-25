@@ -8,12 +8,10 @@
 
 ## GitHub & Coding Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark&hide_border=true"
+  alt="GitHub Stats"
+/>
 
 <!--START_SECTION:waka-->
 
