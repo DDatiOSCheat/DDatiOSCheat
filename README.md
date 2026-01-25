@@ -16,4 +16,17 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 January 2026 - To: 24 January 2026
+
+Total Time: 7 hrs 28 mins
+
+Text         6 hrs 4 mins    ████████████████████░░░░░   79.67 %
+JavaScript   1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
