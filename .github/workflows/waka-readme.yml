@@ -23,8 +23,8 @@ jobs:
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: all
-          IGNORED_LANGUAGES: Text
-          STOP_AT_OTHER: true
+          #IGNORED_LANGUAGES: Text
+          #STOP_AT_OTHER: true
           COMMIT_MESSAGE: "chore: update waka metrics"
           TARGET_BRANCH: main
           TARGET_PATH: README.md
