@@ -22,7 +22,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: rust
+          CODE_LANG: all
           IGNORED_LANGUAGES: Text
           STOP_AT_OTHER: true
           COMMIT_MESSAGE: "chore: update waka metrics"
