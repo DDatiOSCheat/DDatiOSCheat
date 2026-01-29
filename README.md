@@ -2,7 +2,7 @@
 
 <span style="color:#cdd6f4">What i do? : iOS tweaks • game mods • reverse engineering</span><br>
 <span style="color:#a6e3a1">Langs & tools: Python • JavaScript • TypeScript • Node.js • C / C++ • Theos • IDA Pro</span><br>
-<span style="color:#f38ba8">I love you :3</span>
+<span style="color:#f38ba8">Lazyyy</span>
 
 ---
 
