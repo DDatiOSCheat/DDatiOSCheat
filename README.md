@@ -1,4 +1,4 @@
-# <span style="color:#89b4fa">Hi there, I'm tinysweet :)</span>
+# <span style="color:#89b4fa">Hi there, I'm tinysweet :3</span>
 
 <span style="color:#cdd6f4">What i do? : iOS tweaks • game mods • reverse engineering</span><br>
 <span style="color:#a6e3a1">Langs & tools: Python • JavaScript • TypeScript • Node.js • C / C++ • Theos • IDA Pro</span><br>
