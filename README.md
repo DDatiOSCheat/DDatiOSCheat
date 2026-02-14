@@ -8,10 +8,7 @@
 
 ## GitHub & Coding Activity
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=DDatiOSCheat&show_icons=true&theme=dark&hide_border=true"
-  alt="GitHub Stats"
-/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DDatiOSCheat?cardType=level&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--START_SECTION:waka-->
 
