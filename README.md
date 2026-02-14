@@ -8,7 +8,7 @@
 
 ## GitHub & Coding Activity
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DDatiOSCheat?cardType=level&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DDatiOSCheat?cardType=level&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)]
 
 <!--START_SECTION:waka-->
 
