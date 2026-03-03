@@ -1,20 +1,20 @@
 <h1 align="center">
-<span style="color:#89b4fa">Hi there, I'm tinysweet :3</span>
+<span style="color:#89b4fa">૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Hi there, I'm tinysweet :3 ✧</span>
 </h1>
 
 <p align="center">
-<span style="color:#cdd6f4">What i do? : iOS tweaks • game mods • reverse engineering</span><br>
-<span style="color:#a6e3a1">Langs & tools: Python • JavaScript • TypeScript • Node.js • C / C++ • Theos • IDA Pro</span><br>
-<span style="color:#f38ba8">Lazyyy</span>
+<span style="color:#cdd6f4">＞︿＜ What i do? : iOS tweaks • game mods • reverse engineering ✦</span><br>
+<span style="color:#a6e3a1">✧ Langs & tools: Python • JavaScript • TypeScript • Node.js • C / C++ • Theos • IDA Pro ✧</span><br>
+<span style="color:#f38ba8">Lazyyy… >_< ♡</span>
 </p>
 
 <br>
 <p align="center">
-<a href="https://tinysweet.qzz.io/">🌐 tinysweet.qzz.io</a>
+<a href="https://tinysweet.qzz.io/">🌐 tinysweet.qzz.io ✨</a>
 </p>
 
 <br>
-<p align="center">───────────────</p>
+<p align="center">─────────────── ✧ ───────────────</p>
 <br>
 
 <p align="center">
