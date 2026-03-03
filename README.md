@@ -5,6 +5,8 @@
 <span style="color:#f38ba8">Lazyyy</span>
 
 <br>
+<p align="center">───────────────</p>
+<br>
 
 <p align="center">
 
